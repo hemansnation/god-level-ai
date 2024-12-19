@@ -41,10 +41,14 @@ You can customize the learning sessions according to your time availability.
 
 </p>
 
-## Table of Contents
+## the path
 
-- Programming
+- Programming and Version Control
+1. [Python](./01_Python/)
+2. [Data Structures & Algorithms](/02_Data%20Structures%20and%20Algorithms/)
+3. [Git and GitHub](/02_Data%20Structures%20and%20Algorithms/)
 - Data
+4. [Pandas, NumPy and Matplotlib](/03_Pandas%20NumPy%20Matplotlib/)
 - Math
 - ML & Production
 - DL & Production
@@ -62,7 +66,7 @@ You can customize the learning sessions according to your time availability.
 
 1. [Python](./01_Python/)
 2. [Data Structures & Algorithms](/02_Data%20Structures%20and%20Algorithms/)
-3. [Pandas, NumPy and Matplotlib](/03_Pandas%20NumPy%20Matplotlib/)
+
 4. [Statistics](/04_Statistics/)
 5. [Machine Learning](/05_Machine%20Learning/)
 6. [Machine‌ ‌Learning‌ Operations](/06_ML%20Ops/)

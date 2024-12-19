@@ -43,36 +43,34 @@ You can customize the learning sessions according to your time availability.
 
 ## Table of Contents
 
-0. Starting Point
-1. Machine‌ ‌Learning‌
-2. MLOps | AWS GCP & Azure
-3. Natural Language Processing
-4. Deep Learning
-5. Generative AI
-6. RAG, LangChain & LlamaIndex
-7. ML/GenAI System Design
-8. Machine Learning, GenAI Interview
-9. Personal Branding & Portfolio
+- Programming
+- Data
+- Math
+- ML & Production
+- DL & Production
+- NLP
+- GenerativeAI
+- CV
+- System Design
+- AI System Design
+- Projects & Portfolio
+- AI Interview
+- Personal Brand
+- Exam & Certification
 
-#### Fundamentals
+
+
 1. [Python](./01_Python/)
 2. [Data Structures & Algorithms](/02_Data%20Structures%20and%20Algorithms/)
 3. [Pandas, NumPy and Matplotlib](/03_Pandas%20NumPy%20Matplotlib/)
 4. [Statistics](/04_Statistics/)
-#### Machine Learning
 5. [Machine Learning](/05_Machine%20Learning/)
 6. [Machine‌ ‌Learning‌ Operations](/06_ML%20Ops/)
-
-#### Deep Learning
 7. [Natural Language Processing X Deep Learning]()
 8. [Generative AI - GANs, VAEs, LLMs]()
 9. [Computer Vision X Deep Learning]()
-
-#### MLOps & Architecture Design
 10. [MLOps | Machine Learning Operations]()
 11. [Machine Learning System Design]()
-
-#### Projects & Interview
 12. [Major Capstone Projects]()
 13. [AI Interview]()
 

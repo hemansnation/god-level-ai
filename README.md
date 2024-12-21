@@ -10,7 +10,7 @@ You can do the drill by watching video sessions or text content.
 
 I will recommend video sessions and use text content as go-to notes.
 
-You can be in one of the following categories :-
+You can be in one of the following categories:-
 - either you are working on a leadership position
 - or you are working as a professional
 - or you are a student
@@ -19,9 +19,9 @@ No matter what position you are working in currently, you need to put in the sam
 
 Spoiler alert - There are NO Shortcuts in the tech field.
 
-This is for all humans who want to get better in the field and are courageous enough to take action towards it.
+This is for all humans who want to improve in the field and are courageous enough to take action.
 
-You will find all the topics explained here along with whatever is needed to understand it completely.
+You will find all the topics explained here and whatever is needed to understand it completely.
 
 The drill is all action-oriented.
 
@@ -43,46 +43,84 @@ You can customize the learning sessions according to your time availability.
 
 ## the path
 
-- Programming and Version Control
+#### Programming and Version Control
+
 1. [Python](./01_Python/)
 2. [Data Structures & Algorithms](/02_Data%20Structures%20and%20Algorithms/)
 3. [Git and GitHub](/02_Data%20Structures%20and%20Algorithms/)
-- Data
-4. [Pandas, NumPy and Matplotlib](/03_Pandas%20NumPy%20Matplotlib/)
-- Math
-- ML & Production
-- DL & Production
-- NLP
-- GenerativeAI
-- CV
-- System Design
-- AI System Design
-- Projects & Portfolio
-- AI Interview
-- Personal Brand
-- Exam & Certification
+
+#### Data
+
+[NumPy](/03_Pandas%20NumPy%20Matplotlib/)
+
+[Pandas](/03_Pandas%20NumPy%20Matplotlib/)
+
+[Data Viz](/03_Pandas%20NumPy%20Matplotlib/)
+
+[Data Pipeline](/03_Pandas%20NumPy%20Matplotlib/)
+
+#### Math
+
+[Statistics](/04_Statistics/)
+
+[Probability](/05_Linear)
+
+[Linear Algebra](/05_Linear)
+
+[Calculus](/07_Linear)
 
 
-
-1. [Python](./01_Python/)
-2. [Data Structures & Algorithms](/02_Data%20Structures%20and%20Algorithms/)
-
-4. [Statistics](/04_Statistics/)
+#### ML & Production
 5. [Machine Learning](/05_Machine%20Learning/)
 6. [Machine‌ ‌Learning‌ Operations](/06_ML%20Ops/)
+
+#### DL & Production
+#### NLP
 7. [Natural Language Processing X Deep Learning]()
-8. [Generative AI - GANs, VAEs, LLMs]()
+
+#### GenerativeAI
+7. [Natural Language Processing X Deep Learning]()
+
+#### CV
 9. [Computer Vision X Deep Learning]()
-10. [MLOps | Machine Learning Operations]()
+
+#### System Design
 11. [Machine Learning System Design]()
+
+#### AI System Design
+
+#### Projects & Portfolio
 12. [Major Capstone Projects]()
+
+#### AI Interview
 13. [AI Interview]()
+
+#### Personal Brand
+#### Exam & Certification
+
+
+
+
 
 #### Personal Branding
 14. [Personal Branding & Portfolio]()
 15. [Projects](/projects/)
 
 
+#### Programming and Version Control
+#### Data
+#### Math
+#### ML & Production
+#### DL & Production
+#### NLP
+#### GenerativeAI
+#### CV
+#### System Design
+#### AI System Design
+#### Projects & Portfolio
+#### AI Interview
+#### Personal Brand
+#### Exam & Certification
 
 
 

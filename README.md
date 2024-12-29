@@ -43,86 +43,19 @@ You can customize the learning sessions according to your time availability.
 
 ## the path
 
-#### Programming and Version Control
-
 1. [Python](./01_Python/)
 2. [Data Structures & Algorithms](/02_Data%20Structures%20and%20Algorithms/)
 3. [Git and GitHub](/02_Data%20Structures%20and%20Algorithms/)
-
-#### Data
-
-[NumPy](/03_Pandas%20NumPy%20Matplotlib/)
-
-[Pandas](/03_Pandas%20NumPy%20Matplotlib/)
-
-[Data Viz](/03_Pandas%20NumPy%20Matplotlib/)
-
-[Data Pipeline](/03_Pandas%20NumPy%20Matplotlib/)
-
-#### Math
-
-[Statistics](/04_Statistics/)
-
-[Probability](/05_Linear)
-
-[Linear Algebra](/05_Linear)
-
-[Calculus](/07_Linear)
-
-
-#### ML & Production
-5. [Machine Learning](/05_Machine%20Learning/)
-6. [Machine‌ ‌Learning‌ Operations](/06_ML%20Ops/)
-
-#### DL & Production
-#### NLP
-7. [Natural Language Processing X Deep Learning]()
-
-#### GenerativeAI
-7. [Natural Language Processing X Deep Learning]()
-
-#### CV
-9. [Computer Vision X Deep Learning]()
-
-#### System Design
+4. [NumPy](/03_Pandas%20NumPy%20Matplotlib/)
+5. [Pandas](/03_Pandas%20NumPy%20Matplotlib/)
+6. [Math]()
+7. [Machine Learning](/05_Machine%20Learning/)
+8. [Machine‌ ‌Learning‌ Operations](/06_ML%20Ops/)
+9. [Natural Language Processing X Deep Learning]()
+10. [Computer Vision X Deep Learning]()
 11. [Machine Learning System Design]()
-
-#### AI System Design
-
-#### Projects & Portfolio
 12. [Major Capstone Projects]()
-
-#### AI Interview
 13. [AI Interview]()
-
-#### Personal Brand
-#### Exam & Certification
-
-
-
-
-
-#### Personal Branding
-14. [Personal Branding & Portfolio]()
-15. [Projects](/projects/)
-
-
-#### Programming and Version Control
-#### Data
-#### Math
-#### ML & Production
-#### DL & Production
-#### NLP
-#### GenerativeAI
-#### CV
-#### System Design
-#### AI System Design
-#### Projects & Portfolio
-#### AI Interview
-#### Personal Brand
-#### Exam & Certification
-
-
-
-
+14. [Projects](/projects/)
+15. [Personal Branding & Portfolio]()
 
